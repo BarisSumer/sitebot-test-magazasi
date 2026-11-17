@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barissumer.github.io/sitebot-test-magazasi/sitemap.xml
